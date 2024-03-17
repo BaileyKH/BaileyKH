@@ -17,7 +17,7 @@ Hello there! I'm Bailey, a passionate Front-End Developer dedicated to crafting 
 <img align="left" alt="Vitest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg"/>
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
 
-#
+
 
 
 
