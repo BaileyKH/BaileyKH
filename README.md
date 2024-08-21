@@ -1,3 +1,5 @@
+<div style="background-image: url('https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTF6b284Mmp4bXRxbTVnOGVibmFleGZ1OWc0dXdtY2cydnY1OHcyYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTq8KKqhKk2ooC5Xs8/giphy.gif'); background-size: cover; padding: 40px; text-align: center; color: white; border-radius: 15px;">
+
 # 👻 BaileyKH
 
 **`Developer | Gamer | Horror Enthusiast`**
