@@ -2,11 +2,7 @@
   <img src="assets/github-banner.png" alt="Halloween and Developer themed banner">
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F7F7F7&background=000000&lines=Front-End+Dev;Gamer;Horror+Enthusiast;Welcome!" alt="Bailey is a Developer, Gamer, Horror Enthusiast, Welcome!" />
-</p>
-
-<h1 align="center">Hi there, I'm <a href="https://github.com/BaileyKH">Bailey</a></h1>
+<h1 align="center">Hi there, I'm <a href="https://github.com/BaileyKH" style="color: #CB1014;">Bailey</a></h1>
 <p align="center">
   <strong>Software Engineer | Tech Goblin | Horror Fanatic</strong>
 </p>
@@ -30,7 +26,7 @@
 
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" alt="TypeScript"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" alt="HTML5"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" alt="CSS3"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" alt="React"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40px" alt="Next.js"/> |
 | --- | --- | --- | --- | --- | --- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40px" alt="TailwindCSS"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" alt="Figma"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40px" alt="Redux"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40px" alt="Node.js"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40px" alt="Jest"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="40px" alt="Vitest"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40px" alt="TailwindCSS"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" width="40px" alt="Figma"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40px" alt="Redux"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40px" alt="Node.js"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40px" alt="Jest"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="40px" alt="Vitest"/> |
 
 ---
 
@@ -45,14 +41,6 @@
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaileyKH&layout=compact&theme=tokyonight" 
        alt="Bailey's Top Languages" 
        height="165" 
-  />
-</p>
-
-<p align="center">
-  <img
-       src="https://github-readme-streak-stats.herokuapp.com/?user=BaileyKH&theme=tokyonight"
-       alt="Bailey's Streak Stats" 
-       height="165"
   />
 </p>
 
