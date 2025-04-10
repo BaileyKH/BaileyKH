@@ -1,30 +1,67 @@
-# 👻 BaileyKH
+<p align="center">
+  <img src="assets/github-banner.png" alt="Halloween and Developer themed banner">
+</p>
 
-**`Developer | Gamer | Horror Enthusiast`**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F7F7F7&background=000000&lines=Front-End+Dev;Gamer;Horror+Enthusiast;Welcome!" alt="Bailey is a Developer, Gamer, Horror Enthusiast, Welcome!" />
+</p>
 
-Hello there! I'm Bailey, a passionate Front-End Developer dedicated to crafting engaging and user-friendly digital experiences. With a keen eye for design and a fervent enthusiasm for coding, I specialize in bringing creative concepts to life through clean, efficient, and accessible code. In this GitHub space, you'll find a range of projects showcasing my journey and growth as a developer. Each repository reflects my commitment to continuous learning and professional development.
+<h1 align="center">Hi there, I'm <a href="https://github.com/BaileyKH">Bailey</a></h1>
+<p align="center">
+  <strong>Software Engineer | Tech Goblin | Horror Fanatic</strong>
+</p>
+
+<p align="center">
+  I'm a passionate <strong>Front-End Developer</strong> dedicated to crafting 
+  engaging and user-friendly digital experiences. I love bringing creative 
+  concepts to life through clean, efficient, and accessible code.
+</p>
 
 ---
 
-### ⛏️ Languages and Tools
+### About Me
+- I’m currently working on modern web applications using React, Next.js, and Tailwind CSS.  
+- I’m always learning and exploring new technologies—currently diving deeper into **Node** and **Express**.  
+- In my free time you can find me programming, learning, or sleeping while dreaming about programming.
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"/>
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg"/>
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg"/>
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-<img align="left" alt="Next" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
-<img align="left" alt="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg"/>
-<img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
-<img align="left" alt="Redux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg"/>
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg"/>
-<img align="left" alt="Jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
-<img align="left" alt="Vitest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg"/>
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+---
 
+### Languages and Tools
 
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" alt="JavaScript"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40px" alt="TypeScript"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" alt="HTML5"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" alt="CSS3"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" alt="React"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40px" alt="Next.js"/> |
+| --- | --- | --- | --- | --- | --- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40px" alt="TailwindCSS"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px" alt="Figma"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40px" alt="Redux"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" width="40px" alt="Node.js"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40px" alt="Jest"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-original.svg" width="40px" alt="Vitest"/> |
 
+---
 
+### GitHub Stats
+<p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=BaileyKH&show_icons=true&theme=tokyonight" 
+       alt="Bailey's GitHub stats" 
+       height="165" 
+  />
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaileyKH&layout=compact&theme=tokyonight" 
+       alt="Bailey's Top Languages" 
+       height="165" 
+  />
+</p>
 
+<p align="center">
+  <img
+       src="https://github-readme-streak-stats.herokuapp.com/?user=BaileyKH&theme=tokyonight"
+       alt="Bailey's Streak Stats" 
+       height="165"
+  />
+</p>
 
+---
+
+### Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/baileykh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-CB1014?style=flat&logo=linkedin" alt="LinkedIn Badge"/></a>
+  <a href="https://www.baileykh.dev/"><img src="https://img.shields.io/badge/Portfolio-CB1014" alt="LinkedIn Badge"/></a>
+  <!-- Add or remove any social/portfolio links that you'd like -->
+</p>
 
