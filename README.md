@@ -8,9 +8,7 @@
 </p>
 
 <p align="center">
-  I'm a passionate <strong>Front-End Developer</strong> dedicated to crafting 
-  engaging and user-friendly digital experiences. I love bringing creative 
-  concepts to life through clean, efficient, and accessible code.
+  I'm a front-end developer who’s passionate about crafting intuitive, accessible, and visually engaging user experiences. I love bringing designs to life on the web and making the front-end feel seamless and responsive. I enjoy working with modern technologies like React, Next.js, and Tailwind CSS. Tools that help me build fast, responsive, and beautiful web apps. I'm especially drawn to component-driven development and design systems that keep projects scalable and maintainable. Whether I’m working on a side project, collaborating with a team, or experimenting with new UI ideas, I care deeply about clean code, performance, and accessibility. I’m always learning and exploring ways to make the web more usable and enjoyable for everyone.
 </p>
 
 ---
