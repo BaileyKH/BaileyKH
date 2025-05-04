@@ -15,7 +15,7 @@
 
 ### About Me
 - I’m currently working on modern web applications using React, Next.js, and Tailwind CSS.  
-- I’m always learning and exploring new technologies—currently diving deeper into **Node** and **Express**.  
+- I’m always learning and exploring new technologies, currently diving deeper into **Node** and **Express**.  
 - In my free time you can find me programming, learning, or sleeping while dreaming about programming.
 
 ---
