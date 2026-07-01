@@ -8,7 +8,10 @@
 </p>
 
 <p align="center">
-  I'm a front-end developer who’s passionate about crafting intuitive, accessible, and visually engaging user experiences. I love bringing designs to life on the web and making the front-end feel seamless and responsive. I enjoy working with modern technologies like React, Next.js, and Tailwind CSS. Tools that help me build fast, responsive, and beautiful web apps. I'm especially drawn to component-driven development and design systems that keep projects scalable and maintainable. Whether I’m working on a side project, collaborating with a team, or experimenting with new UI ideas, I care deeply about clean code, performance, and accessibility. I’m always learning and exploring ways to make the web more usable and enjoyable for everyone.
+  I enjoy building software that balances thoughtful design with solid engineering. Most of my experience has been in the React and TypeScript ecosystem, but over time I've become increasingly interested in backend development, application architecture, authentication, databases, and the systems that make great user experiences possible.
+
+  I love learning new technologies, building projects from the ground up, and understanding how everything fits together, from responsive interfaces to APIs and infrastructure. Whether I'm experimenting with a new idea, contributing to production applications, or diving into a side project, my goal is always the same: build software that's clean, reliable, and enjoyable to use.
+
 </p>
 
 ---
@@ -16,7 +19,7 @@
 ### About Me
 - I’m currently working on modern web applications using React, Next.js, and Tailwind CSS.  
 - I’m always learning and exploring new technologies, currently diving deeper into **Node** and **Express**.  
-- In my free time you can find me programming, learning, or sleeping while dreaming about programming.
+- When I'm not coding, you'll probably find me exploring new technologies, refining existing projects, or tackling the next problem that catches my curiosity.
 
 ---
 
@@ -28,18 +31,9 @@
 
 ---
 
-### GitHub Stats
+### BootDev Stats (always stay learning)
 <p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=BaileyKH&show_icons=true&theme=tokyonight" 
-       alt="Bailey's GitHub stats" 
-       height="165" 
-  />
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaileyKH&layout=compact&theme=tokyonight" 
-       alt="Bailey's Top Languages" 
-       height="165" 
-  />
+  <img src="https://api.boot.dev/v1/users/public/bd16e676-bee6-4b64-b0f3-f1f85d180671/thumbnail" >
 </p>
 
 ---
@@ -48,6 +42,5 @@
 <p>
   <a href="https://www.linkedin.com/in/baileykh/"><img src="https://img.shields.io/badge/LinkedIn-Connect-CB1014?style=flat&logo=linkedin" alt="LinkedIn Badge"/></a>
   <a href="https://www.baileykh.dev/"><img src="https://img.shields.io/badge/Portfolio-CB1014" alt="LinkedIn Badge"/></a>
-  <!-- Add or remove any social/portfolio links that you'd like -->
 </p>
 
