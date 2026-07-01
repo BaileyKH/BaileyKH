@@ -8,9 +8,7 @@
 </p>
 
 <p align="center">
-  I enjoy building software that balances thoughtful design with solid engineering. Most of my experience has been in the React and TypeScript ecosystem, but over time I've become increasingly interested in backend development, application architecture, authentication, databases, and the systems that make great user experiences possible.
-
-  I love learning new technologies, building projects from the ground up, and understanding how everything fits together, from responsive interfaces to APIs and infrastructure. Whether I'm experimenting with a new idea, contributing to production applications, or diving into a side project, my goal is always the same: build software that's clean, reliable, and enjoyable to use.
+  I enjoy building software that balances thoughtful design with solid engineering. Most of my experience has been in the React and TypeScript ecosystem, but over time I've become increasingly interested in backend development, application architecture, authentication, databases, and the systems that make great user experiences possible.<br>I love learning new technologies, building projects from the ground up, and understanding how everything fits together, from responsive interfaces to APIs and infrastructure. Whether I'm experimenting with a new idea, contributing to production applications, or diving into a side project, my goal is always the same: build software that's clean, reliable, and enjoyable to use.
 
 </p>
 
